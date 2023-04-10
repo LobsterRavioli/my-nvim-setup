@@ -29,7 +29,7 @@ The plugins used are these:
 ```bash
  nvim lua/my_config/packer.lua
 ```
-4. Run the comand `:PackSync` in the neovim "shell".
+4. Run the comand `:PackSync` on the neovim "shell".
 5. You should ready to go.
 
 # Keybinding Cheetsheet
