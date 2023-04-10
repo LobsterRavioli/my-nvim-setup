@@ -27,7 +27,7 @@ The plugins used are these:
 ```
 3. Open the dependencies list for Packer.
 ```bash
- nvim nvim lua/my_config/packer.lua
+ nvim lua/my_config/packer.lua
 ```
 4. Open nvim "shell" pressing ":" and type "PackSync".
 
