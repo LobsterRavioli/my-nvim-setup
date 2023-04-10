@@ -4,7 +4,7 @@ Status:
 # Bindings setup nvim
 
 Hi!  nothing here new thats [Primeagen dot files](https://github.com/ThePrimeagen/init.lua), I followed his [youtube video](https://www.youtube.com/watch?v=w7i4amO_zaE) for the setup.
-For the installation pull this under the ~/.config/nvim folder.
+
 
 The plugins used are these:
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
@@ -15,6 +15,22 @@ The plugins used are these:
 - [Fugitive](https://github.com/tpope/vim-fugitive)
 
 > The "leader" in this case is the space " " as you can see in the scripts.
+
+
+# Installation 
+
+1. Setup [Packer](https://github.com/wbthomason/packer.nvim)
+2. Clone this under the repo under ~/.config/nvim.
+```bash
+ cd ~/.config/nvim
+ git clone https://github.com/LobsterRavioli/my-nvim-setup
+```
+3. Open the dependencies list for Packer.
+```bash
+ nvim nvim lua/my_config/packer.lua
+```
+4. Open nvim "shell" pressing ":" and type "PackSync".
+
 
 # Keybinding Cheetsheet
 ## Telescope
