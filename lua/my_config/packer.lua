@@ -9,6 +9,7 @@ return require('packer').startup(function(use)
 		requires = { {'nvim-lua/plenary.nvim'} }
 	}
 	use {'nvim-treesitter/nvim-treesitter', run = ':TSUpdate'}
+	use 'hrsh7th/nvim-compe'
 	use 'ThePrimeagen/harpoon'
 	use 'mbbill/undotree'
 	use 'tpope/vim-fugitive'
@@ -32,8 +33,6 @@ return require('packer').startup(function(use)
 		{'L3MON4D3/LuaSnip'},     -- Required
 	}
 }
-
-
 
 end)
 
