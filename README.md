@@ -3,6 +3,20 @@ Status:
 
 # Bindings setup nvim
 
+Hi, nothing new thats [Primeagen dot files](https://github.com/ThePrimeagen/init.lua).
+I followed his [youtube video](https://www.youtube.com/watch?v=w7i4amO_zaE) for the setup.
+
+[I'm an inline-style link](https://www.google.com)
+The plugins used are these:
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [Harpoon](https://github.com/ThePrimeagen/harpoon)
+- [Lsp Zeero](https://github.com/VonHeikemen/lsp-zero.nvim)
+- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [Undotree](https://github.com/mbbill/undotree)
+- [Fugitive](https://github.com/tpope/vim-fugitive)
+
+This is a cheetsheet for the various keybindings:
+
 ## Telescope
 | Mode | Column  | Description                                                                                                                      |
 |------|---------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +37,7 @@ Status:
 | Normal    | `Ctrl-n`      | Calls the Obsidian built-in function 'ui.nav_file(3)' to navigate to the previous file in the opposite pane (if split).                       |
 | Normal    | `Ctrl-s`      | Calls the Obsidian built-in function 'ui.nav_file(4)' to navigate to the next file in the opposite pane (if split).                           |
 
-## Auto complete
+## Lsp Zeero
 
 | Mode | Column            | Description                                                                                                   |
 | ---  |-------------------|---------------------------------------------------------------------------------------------------------------|
