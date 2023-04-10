@@ -30,7 +30,7 @@ The plugins used are these:
  nvim lua/my_config/packer.lua
 ```
 4. Open nvim "shell" pressing ":" and type "PackSync".
-
+5. You should ready to go.
 
 # Keybinding Cheetsheet
 ## Telescope
