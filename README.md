@@ -20,7 +20,7 @@ The plugins used are these:
 # Installation 
 
 1. Setup [Packer](https://github.com/wbthomason/packer.nvim)
-2. Clone this under the repo under ~/.config/nvim.
+2. Clone this repo under ~/.config/nvim.
 ```bash
  cd ~/.config/nvim
  git clone https://github.com/LobsterRavioli/my-nvim-setup
