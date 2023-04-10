@@ -14,7 +14,7 @@ The plugins used are these:
 - [Undotree](https://github.com/mbbill/undotree)
 - [Fugitive](https://github.com/tpope/vim-fugitive)
 
-> The "leader" in this case is the space " " as you can see in the scripts.
+
 
 
 # Installation 
@@ -33,6 +33,9 @@ The plugins used are these:
 5. You should ready to go.
 
 # Keybinding Cheetsheet
+
+> The "leader" in this case is the space " " as you can see in the scripts.
+
 ## Telescope
 | Mode | Column  | Description                                                                                                                      |
 |------|---------|----------------------------------------------------------------------------------------------------------------------------------|
