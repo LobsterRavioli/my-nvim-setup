@@ -1,7 +1,4 @@
-202304101823
-Status: 
-
-# Bindings setup nvim
+# Introduction
 
 Hi!  nothing here new thats [Primeagen dot files](https://github.com/ThePrimeagen/init.lua), I followed his [youtube video](https://www.youtube.com/watch?v=w7i4amO_zaE) for the setup.
 
