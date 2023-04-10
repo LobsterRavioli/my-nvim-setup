@@ -1,7 +1,6 @@
 # Introduction
 
-Hi!  nothing here new thats [Primeagen dot files](https://github.com/ThePrimeagen/init.lua), I followed his [youtube video](https://www.youtube.com/watch?v=w7i4amO_zaE) for the setup.
-
+Hi!  Nothing new here just [Primeagen dot files](https://github.com/ThePrimeagen/init.lua), I followed his [youtube video](https://www.youtube.com/watch?v=w7i4amO_zaE) for the setup.
 
 The plugins used are these:
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
