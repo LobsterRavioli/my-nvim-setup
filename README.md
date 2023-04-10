@@ -15,7 +15,7 @@ The plugins used are these:
 
 > The "leader" in this case is the space " " as you can see in the scripts.
 
-
+This a little cheetsheet for the various keybindings.
 ## Telescope
 | Mode | Column  | Description                                                                                                                      |
 |------|---------|----------------------------------------------------------------------------------------------------------------------------------|
