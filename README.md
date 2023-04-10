@@ -4,6 +4,7 @@ Status:
 # Bindings setup nvim
 
 Hi!  nothing here new thats [Primeagen dot files](https://github.com/ThePrimeagen/init.lua), I followed his [youtube video](https://www.youtube.com/watch?v=w7i4amO_zaE) for the setup.
+For the installation pull this under the ~/.config/nvim folder.
 
 The plugins used are these:
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
