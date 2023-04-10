@@ -29,7 +29,7 @@ The plugins used are these:
 4. Run the comand `:PackSync` on the neovim "shell".
 5. You should ready to go.
 
-# Keybinding Cheetsheet
+# Keybindings Cheetsheet
 
 > The "leader" in this case is the space " " as you can see in the scripts.
 
