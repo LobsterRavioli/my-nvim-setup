@@ -10,8 +10,33 @@ The plugins used are these:
 - [Undotree](https://github.com/mbbill/undotree)
 - [Fugitive](https://github.com/tpope/vim-fugitive)
 
+The file structure It's kinda weird but I think he did this for mantaince and modularity purposes:
 
+```bash 
+.
+├── after
+│   └── plugin
+│       ├── fugitive.lua
+│       ├── harpoon.lua
+│       ├── lsp.lua
+│       ├── telescope.lua
+│       ├── treesitter.lua
+│       └── undotree.lua
+├── init.lua
+├── lua
+│   └── my_config
+│       ├── init.lua
+│       ├── packer.lua
+│       ├── remap.lua
+│       └── set.lua
+└── plugin
+    └── packer_compiled.lua
+```
 
+- **after**: The content of this folder is runned for last, You can put there config files for installed plugins. 
+- **init.lua**: You can see this like an index file, he request from my_config scripts to run.
+- **my_config**: init.lua requires that the init.lua of this folder should be called and executed.
+ - **init.lua**: Can require various scripts from his folder.
 
 # Installation 
 
