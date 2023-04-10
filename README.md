@@ -14,7 +14,8 @@ The plugins used are these:
 - [Undotree](https://github.com/mbbill/undotree)
 - [Fugitive](https://github.com/tpope/vim-fugitive)
 
-This is a cheetsheet for the various keybindings:
+> The "leader" in this case is the space " " as you can see in the scripts.
+
 
 ## Telescope
 | Mode | Column  | Description                                                                                                                      |
