@@ -23,17 +23,14 @@ Status:
 | Normal    | `Ctrl-n`      | Calls the Obsidian built-in function 'ui.nav_file(3)' to navigate to the previous file in the opposite pane (if split).                       |
 | Normal    | `Ctrl-s`      | Calls the Obsidian built-in function 'ui.nav_file(4)' to navigate to the next file in the opposite pane (if split).                           |
 
-Auto complete
+## Auto complete
 
-| Column            | Description                                                                                                   |
-|-------------------|---------------------------------------------------------------------------------------------------------------|
-| `Ctrl-p`           | Maps the key combination `Control + p` to the 'cmp' function 'select_prev_item' with the 'cmp_select' behavior. |
-| `Ctrl-n`           | Maps the key combination `Control + n` to the 'cmp' function 'select_next_item' with the 'cmp_select' behavior. |
-| `Ctrl-y `          | Maps the key combination `Control + y` to the 'cmp' function 'confirm' with a table argument.                   |
-| `Ctrl-Space`       | Maps the key combination `Control + Space` to the 'cmp' function 'complete'.                                  |
-
-| Mode | Column            | Description                                                                                                            |
-|------|-------------------|------------------------------------------------------------------------------------------------------------------------|
+| Mode | Column            | Description                                                                                                   |
+| ---  |-------------------|---------------------------------------------------------------------------------------------------------------|
+| Normal| `Ctrl-p`           | Maps the key combination `Control + p` to the 'cmp' function 'select_prev_item' with the 'cmp_select' behavior. |
+| Normal | `Ctrl-n`           | Maps the key combination `Control + n` to the 'cmp' function 'select_next_item' with the 'cmp_select' behavior. |
+| Normal | `Ctrl-y `          | Maps the key combination `Control + y` to the 'cmp' function 'confirm' with a table argument.                   |
+| Normal | `Ctrl-Space`       | Maps the key combination `Control + Space` to the 'cmp' function 'complete'.                                  |
 | Normal    | `gd`                | Calls the Vim LSP function 'buf.definition' to go to the definition of the symbol under the cursor.                    |
 | Normal    | `K `                | Calls the Vim LSP function 'buf.hover' to show hover information for the symbol under the cursor.                       |
 | Normal    | `leader-vws`        | Calls the Vim LSP function 'buf.workspace_symbol' to list symbols across the entire workspace.                          |
