@@ -10,7 +10,7 @@ The plugins used are these:
 - [Undotree](https://github.com/mbbill/undotree)
 - [Fugitive](https://github.com/tpope/vim-fugitive)
 
-The file structure It's kinda weird but I think he did this for mantaince and modularity purposes:
+The file structure is like this for mantaince and modularity purposes:
 
 ```bash 
 .
